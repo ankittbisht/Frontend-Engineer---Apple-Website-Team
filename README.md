@@ -4,9 +4,8 @@
 
 This project aims to create a web page showcasing an Apple product following Apple's design principles and brand guidelines. The page will be built using HTML, CSS, and JavaScript to ensure a clean, modern design with interactive elements, responsiveness, and a user-friendly experience.
 ## Live Demo
-```bash
-  git clone https://ankittbisht.github.io/Frontend-Engineer---Apple-Website-Team/
-```
+- https://ankittbisht.github.io/Frontend-Engineer---Apple-Website-Team/
+
 
 ## Screenshots
 ![Screenshot (22)](https://github.com/ankittbisht/Frontend-Engineer---Apple-Website-Team/assets/110447589/bf695fe3-658a-4964-9ae9-0b95d9759023)
